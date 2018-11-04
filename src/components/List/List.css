@@ -1,0 +1,8 @@
+.items {
+    flex: 2;
+    padding-left: 70%;
+
+}
+.item :hover {
+cursor: pointer;
+}
